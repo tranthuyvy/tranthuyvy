@@ -51,3 +51,24 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=2684ff" alt="Jira logo" title="Jira" height="25" /></span>
 &nbsp;
+
+<br>
+<h2 align="center">✉ Contact ✉</h2>
+<br>
+<div align="center">
+  <a href="https://ttv-tranthuyvy-cv.vercel.app/" target="_blank">
+    <img width="120" height="100" src="images/logo-tranthuyvy.png" alt="portfolio" /> 
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100011041895069" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tranthuyvy-facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/vy-tran-945bb92a2/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tranthuyvy-linkedin" />
+  </a>
+  <a href="https://www.instagram.com/nht4v/?igsh=ZGNjOWZkYTE3MQ%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="tranthuyvy-instagram" />
+  </a>
+  <a href="mailto:ttv.thuyvy.1544@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tranthuyvy-email" />
+  </a>
+</div>
