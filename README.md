@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">✉ Contact ✉</h2>
 <br>
 <div align="center">
-  <a href="https://ttv-tranthuyvy-cv.vercel.app/" target="blank">
+  <a href="https://ttv-tranthuyvy-cv.vercel.app/" target="_blank">
     <img width="120" height="100" src="images/logo-tranthuyvy.png" alt="portfolio" /> 
   </a>
   <a href="https://www.facebook.com/profile.php?id=100011041895069" target="_blank">
