@@ -8,4 +8,6 @@
 tranthuyvy/tranthuyvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- Continue...
+<a href="#" target="_blank">
+  <img src="svg/tranthuyvy.svg" width="1200" alt="tranthuyvy" />
+</a>
