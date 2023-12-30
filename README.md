@@ -9,5 +9,5 @@ tranthuyvy/tranthuyvy is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <a href="#" target="_blank">
-  <img src="svg/tranthuyvy.svg" width="1200" alt="tranthuyvy" />
+  <img src="" width="1200" alt="tranthuyvy" />
 </a>
