@@ -3,7 +3,7 @@ tranthuyvy/tranthuyvy is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <a href="#" target="_blank">
-  <img src="svg/tranthuyvy.svg" width="1200" alt="tranthuyvy" />
+  <img src="svg/tranthuyvy.svg" width="800" alt="tranthuyvy" />
 </a>
 <h2 align="center">🔥 Technologies, Tools, Skills 🔥</h2>
 <br>
@@ -85,5 +85,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tranthuyvy-email" />
   </a>
 </div>
-
-<br>
