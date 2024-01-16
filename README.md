@@ -3,7 +3,7 @@ tranthuyvy/tranthuyvy is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <a href="#" target="_blank">
-  <img align="center" src="svg/tranthuyvy.svg" width="auto" height= "300" alt="tranthuyvy" />
+  <img align="center" src="svg/tranthuyvy.svg" width="auto" alt="tranthuyvy" />
 </a>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 <h2 align="center">🔥 Technologies, Tools, Skills 🔥</h2>
