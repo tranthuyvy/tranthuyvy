@@ -2,13 +2,15 @@
 tranthuyvy/tranthuyvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img align="center" src="svg/tranthuyvy.svg" width="auto" height= "300" alt="tranthuyvy" />
-</a>
+</a> -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 <h2 align="center">🔥 Technologies, Tools, Skills 🔥</h2>
 <br>
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=f7a600" alt="Vite logo" title="Vite" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
