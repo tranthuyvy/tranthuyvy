@@ -64,12 +64,12 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.facebook.com/profile.php?id=100011041895069" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tranthuyvy-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/vy-tran-945bb92a2/" target="_blank">
+  <a href="https://www.linkedin.com/in/vy-tran-fe/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="tranthuyvy-linkedin" />
   </a>
-  <a href="https://www.instagram.com/nht4v/?igsh=ZGNjOWZkYTE3MQ%3D%3D&utm_source=qr" target="_blank">
+  <!-- <a href="https://www.instagram.com/nht4v/?igsh=ZGNjOWZkYTE3MQ%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="tranthuyvy-instagram" />
-  </a>
+  </a> -->
   <a href="mailto:ttv.thuyvy.1544@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tranthuyvy-email" />
   </a>
