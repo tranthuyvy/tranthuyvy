@@ -8,9 +8,13 @@ You can click the Preview link to take a look at your changes.
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 <h2 align="center">🔥 Technologies, Tools, Skills 🔥</h2>
 <br>
+<span><img src="https://img.shields.io/badge/NextJs-282C34?logo=nextdotjs&logoColor=FFFFFF" alt="NextJS logo" title="NextJS" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=f7a600" alt="Vite logo" title="Vite" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
@@ -28,8 +32,6 @@ You can click the Preview link to take a look at your changes.
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VSCode logo" title="Visual Studio Code" height="25" /></span>
-&nbsp; -->
 <span><img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=FFFFFF" alt="Vercel logo" title="Vercel" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Trello-282C34?logo=trello&logoColor=9eacba" alt="Trello logo" title="Trello" height="25" /></span>
